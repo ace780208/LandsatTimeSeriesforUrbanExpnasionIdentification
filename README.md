@@ -1,1 +1,1 @@
-# LandsatTimeSeriesforUrbanExpnasionIdentification
+# LandsatTimeSeriesforUrbanExpansionIdentification
